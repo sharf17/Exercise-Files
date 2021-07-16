@@ -13,6 +13,6 @@
 # print('a')
 # a = "    Sujata Rajaram Pujari!"
 # print(a.strip())
-a = str(10)
-b = 'sujju'
-print(a+b)
+a = 10
+b = 'sujju {}'
+print (b.format(a))
