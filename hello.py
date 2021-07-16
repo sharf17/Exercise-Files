@@ -11,5 +11,5 @@
 # else:
 #     print('correct your element')
 # print('a')
-a = "SujataRajaramPujari!"
-print(a[::1])
+a = "    Sujata Rajaram Pujari!"
+print(a.strip())
