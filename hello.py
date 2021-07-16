@@ -11,5 +11,5 @@
 # else:
 #     print('correct your element')
 # print('a')
-a = "sujata is a dreamer!"
-print(a[2:9:2])
+a = "SujataRajaramPujari!"
+print(a[::1])
