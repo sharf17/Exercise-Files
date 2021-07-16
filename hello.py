@@ -6,7 +6,5 @@ for i in name:
 # print(desc[3])
 txt = "Hello sujata ji, hope you are doing well!"
 print('sujata' in txt)
-if 'seed' in txt:
+if 'sujata' in txt:
     print('sujata')
-else:
-    print('correct your element')
