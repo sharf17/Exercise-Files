@@ -23,10 +23,10 @@
 # place = 'ajanale'
 # detail = 'Hey I am {2}, I am {1} years old and I live at {0}'
 # print(detail.format(place,age,name))
-name = "Hey we are \"Indian\""
+name = "Hey we \"Indian\""
 a = name.upper()
-print(a)
-b = a.casefold()
-print(b)
-c = a.lower()
-print(c)
+print(a.center(50))
+# b = a.casefold()
+# print(b)
+# c = a.lower()
+# print(c)
