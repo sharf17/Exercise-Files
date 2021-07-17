@@ -18,8 +18,8 @@
 # print (b.format(a))
 # a = 'heelo world'
 # print(a.split())
-name = 'sujata' #0
-age = 23 #1
-place = 'ajanale' #2
-detail = 'Hey I am {0}, I am {1} years old and I live at {2}'
-print(detail.format(name,age,place))
+name = 'sujata' 
+age = 23 
+place = 'ajanale'
+detail = 'Hey I am {2}, I am {1} years old and I live at {0}'
+print(detail.format(place,age,name))
