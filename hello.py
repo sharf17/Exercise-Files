@@ -26,8 +26,9 @@
 name = "Hey we are Indian's"
 #a = name.upper()
 #print(name.count('a'))
-print(name.encode())
-# b = a.casefold()
+#print(name.encode())
+print(name.endswith('a'))
+#  b = a.casefold()
 # print(b)
 # c = a.lower()
 # print(c)
