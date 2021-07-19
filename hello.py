@@ -35,4 +35,4 @@
 # c = a.lower()
 # print(c)
 # print('Hello World!!!') #printing output
-print('Thanks for vis')
+print('Thanks for visi')
