@@ -33,5 +33,5 @@ print(name.expandtabs(5))
 b = a.casefold()
 print(b)
 c = a.lower()
-# print(c)
+print(c)
 print('Hello World!!!') #printing output
