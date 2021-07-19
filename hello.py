@@ -25,7 +25,7 @@
 # print(detail.format(place,age,name))
 # name = "Hey we are Indian's"
 # a = name.upper()
-print(name.count('a'))
+# print(name.count('a'))
 # print(name.encode())
 # print(name.endswith('a'))
 # print(name.find('s'))
