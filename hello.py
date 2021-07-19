@@ -32,6 +32,6 @@ print(name.find('s'))
 print(name.expandtabs(5))
 # b = a.casefold()
 # print(b)
-c = a.lower()
+# c = a.lower()
 # print(c)
 # print('Hello World!!!') #printing output
