@@ -27,7 +27,7 @@ name = "Hey we are Indian's"
 a = name.upper()
 print(name.count('a'))
 print(name.encode())
-print(name.endswith('a'))
+# print(name.endswith('a'))
 # print(name.find('s'))
 # print(name.expandtabs(5))
 # b = a.casefold()
