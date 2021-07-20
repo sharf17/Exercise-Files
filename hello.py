@@ -17,7 +17,7 @@ a = 10
 b = 'sujju {}'
 print (b.format(a))
 a = 'heelo world'
-# print(a.split())
+print(a.split())
 # name = 'sujata' 
 # age = 23 
 # place = 'ajanale'
