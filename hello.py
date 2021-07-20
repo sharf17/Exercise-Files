@@ -13,7 +13,7 @@ else:
 print('a')
 a = "    Sujata Rajaram Pujari!"
 print(a.strip())
-# a = 10
+a = 10
 # b = 'sujju {}'
 # print (b.format(a))
 # a = 'heelo world'
