@@ -12,7 +12,7 @@ else:
     print('correct your element')
 print('a')
 a = "    Sujata Rajaram Pujari!"
-# print(a.strip())
+print(a.strip())
 # a = 10
 # b = 'sujju {}'
 # print (b.format(a))
