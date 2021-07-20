@@ -16,7 +16,7 @@ print(a.strip())
 a = 10
 b = 'sujju {}'
 print (b.format(a))
-# a = 'heelo world'
+a = 'heelo world'
 # print(a.split())
 # name = 'sujata' 
 # age = 23 
