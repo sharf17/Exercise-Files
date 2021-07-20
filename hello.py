@@ -6,11 +6,11 @@ desc = "Hello Miss Sujata!"
 print(desc[3])
 txt = "Hello sujata ji, hope you are doing well!"
 print('sujata' in txt)
-if 'seed' in txt:
-    print('sujata')
-else:
-    print('correct your element')
-print('a')
+# if 'seed' in txt:
+#     print('sujata')
+# else:
+#     print('correct your element')
+# print('a')
 # a = "    Sujata Rajaram Pujari!"
 # print(a.strip())
 # a = 10
