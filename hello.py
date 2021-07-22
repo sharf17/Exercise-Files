@@ -9,7 +9,7 @@ print('sujata' in txt)
 if 'seed' in txt:
     print('sujata')
 else:
-#     print('correct your element')
+    print('correct your element')
 # print('a')
 # a = "    Sujata Rajaram Pujari!"
 # print(a.strip())
