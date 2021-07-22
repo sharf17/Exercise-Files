@@ -8,11 +8,11 @@ txt = "Hello sujata ji, hope you are doing well!"
 print('sujata' in txt)
 if 'seed' in txt:
     print('sujata')
-else:
-    print('correct your element')
-print('a')
-a = "    Sujata Rajaram Pujari!"
-print(a.strip())
+# else:
+#     print('correct your element')
+# print('a')
+# a = "    Sujata Rajaram Pujari!"
+# print(a.strip())
 # a = 10
 # b = 'sujju {}'
 # print (b.format(a))
