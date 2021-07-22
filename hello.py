@@ -2,7 +2,7 @@
 # print('Hello ', name)
 # for i in name:
 #     print(i)
-# desc = "Hello Miss Sujata!"
+# # desc = "Hello Miss Sujata!"
 # # print(desc[3])
 # txt = "Hello sujata ji, hope you are doing well!"
 # print('sujata' in txt)
@@ -34,5 +34,5 @@
 # print(b)
 # c = a.lower()
 # print(c)
-print('Hello World!!!') #printing output
-print('Thanks for visiting, stay safe')
+# print('Hello World!!!') #printing output
+print('Thanks for visiting, stay safe!')
