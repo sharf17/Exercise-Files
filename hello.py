@@ -8,7 +8,7 @@
 # print('sujata' in txt)
 # if 'seed' in txt:
     # print('sujata')
-# else:
+else:
 #     print('correct your element')
 # print('a')
 # a = "    Sujata Rajaram Pujari!"
