@@ -20,7 +20,7 @@
 # print(a.split())
 # name = 'sujata' 
 # age = 23 
-# place = 'ajanale'
+place = 'ajanale'
 # detail = 'Hey I am {2}, I am {1} years old and I live at {0}'
 # print(detail.format(place,age,name))
 # name = "Hey we are Indian's"
