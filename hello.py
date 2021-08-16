@@ -11,7 +11,7 @@ if 'seed' in txt:
 else:
 #     print('correct your element')
 print('a')
-# a = "    Sujata Rajaram Pujari!"
+a = "    Sujata Rajaram Pujari!"
 # print(a.strip())
 # a = 10
 # b = 'sujju {}'
