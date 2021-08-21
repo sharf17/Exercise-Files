@@ -5,6 +5,6 @@
 // d = c+b
 // console.log(d)
 // console.log(typeof(d))
-let txt = "Apple, Banana, Carrot, DogeCoin"
-console.log(txt.slice(7,13))
-console.log(txt.substring(0,13))
+// let txt = "Apple, Banana, Carrot, DogeCoin"
+// console.log(txt.slice(7,13))
+// console.log(txt.substring(0,13))
