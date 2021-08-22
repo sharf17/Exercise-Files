@@ -1,5 +1,5 @@
 // let a = "Hello Wolrd!"
-// console.log(a[2])
+console.log(a[2])
 let c = 10
 let b = 'sharf'
 d = c+b
