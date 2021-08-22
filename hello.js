@@ -1,4 +1,4 @@
-// let a = "Hello Wolrd!"
+let a = "Hello Wolrd!"
 console.log(a[2])
 let c = 10
 let b = 'sharf'
