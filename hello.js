@@ -14,4 +14,4 @@
 // console.log(txt.replace(/DogeCoin/i, "Dog"))
 // console.log(txt.replace(/DogeCoin/gi, "Dog"))
 let txt = "aaa"
-console.log(txt.slice(0,2))
+// console.log(txt.slice(0,2))
