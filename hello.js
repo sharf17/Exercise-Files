@@ -3,7 +3,7 @@
 let c = 10
 let b = 'sharf'
 d = c+b
-// console.log(d)
+console.log(d)
 console.log(typeof(d))
 // let txt = "Apple, Banana, Carrot, DogeCoin, dogeCoin"
 // console.log(txt.slice(7,13))
