@@ -1,13 +1,5 @@
-# a = 10
-# print(type(a))
-# print(id(a))
-# print(bin(a))
-# print(oct(a))
-# print(hex(a)) malli clear ga chpu loop
-a = int(input())  
-l = []
-for i in range(a): 
-    b = int(input())
-    # print(b)
-    l.append(b)
-print(l)
+a = [10, 20, 5, 9, 26]
+print(a)
+a.sort()
+a.reverse()
+print(a)
