@@ -17,11 +17,11 @@
 // console.log(txt.slice(0,2))
 let a = [10, 12, 14];
 a = ["a", 10, 12, 14];
-console.log(a);
-for (i = 0; i < a.length; i++) {
-  console.log(i);
-  return;
-}
+// console.log(a);
+// for (i = 0; i < a.length; i++) {
+//   console.log(i);
+//   return;
+// }
 name = ["a", "b", "c"];
 for (i = 0; i < name; i++) {
   console.log(i);
