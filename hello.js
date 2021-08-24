@@ -22,7 +22,7 @@ a = ["a", 10, 12, 14];
 //   console.log(i);
 //   return;
 // }
-name = ["a", "b", "c"];
-for (i = 0; i < name; i++) {
+b = ["a", "b", "c"];
+for (i = 0; i < b; i++) {
   console.log(i);
 }
