@@ -3,3 +3,4 @@ print(a)
 a.sort()
 a.reverse()
 print(a)
+#naaku pls mundu concepts chpu mundu direct problem solve chese antha knowledge naa daggara ledu pls chinna theory chpu

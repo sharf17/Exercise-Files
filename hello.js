@@ -15,6 +15,10 @@
 // console.log(txt.replace(/DogeCoin/gi, "Dog"))
 // let txt = "aaa"
 // console.log(txt.slice(0,2))
-let a = [10,12,14]
-a = ['a', 10, 12, 14]
-console.log(a)
+let a = [10, 12, 14];
+a = ["a", 10, 12, 14];
+console.log(a);
+for (i = 0; i < a.length; i++) {
+  console.log(i);
+  return;
+}
