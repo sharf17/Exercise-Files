@@ -22,3 +22,7 @@ for (i = 0; i < a.length; i++) {
   console.log(i);
   return;
 }
+name = ["a", "b", "c"];
+for (i = 0; i < name; i++) {
+  console.log(i);
+}
